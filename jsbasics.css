@@ -1,0 +1,53 @@
+body{
+    background-color: darkblue;
+    overflow: hidden;
+    height: auto;
+    width: auto;
+    padding-top: 20px;
+}
+#blue{
+ color: blue
+}
+#lightblue{
+    color:lightblue
+}
+.navigation{
+    background-color: rgb(68, 125, 145);
+    margin: 10px;
+    border-radius: 20px;
+    padding: 5px;
+    display: inline-block;
+    vertical-align: top;
+}
+.containertop{
+    background-color: rgb(248, 85, 44);
+    margin: 10px;
+    border-radius: 20px;
+    padding: 10px;
+}
+.main{
+    background-color: rgb(0, 19, 44);
+    margin: 10px;
+    border-radius: 20px;
+    padding: 10px;
+    display: inline-block;
+    width: 620px;
+}
+.bottomline{
+    background-color: rgb(134, 134, 134);
+    border-radius: 20px;
+    padding: 10px;
+    margin: 10px;
+}
+p {
+    color: wheat;
+}
+h2{
+    color: wheat;
+}
+ul li {
+    color: wheat;
+}
+a{
+    color: aqua;
+}

@@ -1,0 +1,87 @@
+body{
+    background:rgb(255, 255, 255);
+    font-family: Arial;
+}
+#maincontainer {
+    background: radial-gradient(circle, rgb(157, 101, 194) 5%, rgb(27, 18, 27) 60%);
+}
+#wrapper h1 {
+    display: inline-block;
+    margin-right: 900px;
+    
+}
+#wrapper h2{
+    display:inline-block;
+}
+
+#maincontainer {
+    background-color: rgba(128, 0, 128, 0.425);
+    padding:20px;
+}
+
+.topboxes {
+    display:inline-block;
+    width:650px;
+    background-color: oldlace;
+    vertical-align: top;
+    margin-left: 50px;
+    background: linear-gradient(to bottom, grey, white);
+    margin-bottom: 50px;
+}
+
+#mainpic{
+    border: 5px, solid black;
+	width:650px;
+	height:auto;
+	border: 5px solid #807d7e;
+}
+.topboxes h2{
+    background:radial-gradient(grey 20%, white);
+    margin-top: 0px;
+}
+.bottomboxes h2{
+    background:radial-gradient(grey 20%, white);
+    margin-top: 0px;
+}
+.bottomboxes {
+    display:inline-block;
+    width:400px;
+    background-color: oldlace;
+    vertical-align: top;
+    margin-left: 50px;
+    background: linear-gradient(to bottom, grey, white);
+}
+.bottomboxes .firstul {
+    margin-top: 55px;
+}
+.bottomboxes img{
+    width: 400px;
+}
+.bottomboxes ul li{
+    display:inline-block;
+}
+.bottomboxes ul li img{
+    width:50px;
+    
+}
+.bottomboxes button {
+    background-color: green;
+	color:white;
+	border:solid 1px black;
+	border-radius: 3px;
+	padding:5px;
+    margin: 10px 150px;
+    width: auto;
+}
+h4{
+    margin-left:600px;
+}
+.footer{
+    margin-left:500px;
+}
+ul li {
+    display: inline-block;
+}
+ul li img{
+    width: 20px;
+}

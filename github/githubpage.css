@@ -1,0 +1,149 @@
+*{
+    margin:0; 
+    padding:0px; 
+    font-size:100%; 
+    line-height:1;
+}
+body{
+    background-color:white;
+    padding: 0px 15px;
+    font-family: sans-serif;
+}
+span {
+    color: lightblue;
+}
+#mainwrapper {
+    background-color: gray;
+    padding: 20px 10px;
+}
+#header {
+    background-color: blue;
+}
+#headerleft {
+    margin-top: 10px;
+    font-size: 70px;
+    display: inline-block;
+}
+#headerleft img {
+    height: 80px;
+    position: absolute;
+    margin-top:-10px;
+}
+#headerleft h1 {
+    vertical-align: top;
+    margin-left:80px;
+}
+#headerright {
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 30px;
+}
+#headerright ul {
+    margin-left:320px;
+}
+#headerright ul li {
+    display: inline-block;
+    margin: auto 10px;
+    
+}
+#headerright ul li a {
+    font-size: 18px;
+    color: white;
+}
+#main {
+    background-color: rgb(163, 163, 109);
+    padding: 20px 20px;
+    margin-top: 50px;
+}
+#leftbox {
+    background-color: darkblue;
+    width: 400px;
+    height: 800px;
+    display: inline-block;
+    padding: 20px 20px;
+    color: white;
+}
+#leftbox h2{
+    padding-bottom: 100px;
+    font-size: 50px;
+}
+#leftbox p{
+    padding-bottom: 50px;
+    font-size: 25px;
+}
+#rightmain{
+    width: 950px;
+    display:inline-block;
+    vertical-align: top;
+}
+.topboxes {
+    background-color: darkblue;
+    width: 250px;
+    height: 250px;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 40px;
+    margin-bottom: 75px;
+    padding: 5px;
+    color: white;
+}
+.topboxes h3{
+    margin-bottom: 20px;
+    font-size: 30px;
+}
+.topboxes p{
+    text-align: center;
+    font-size:25px;
+    margin: auto 20px;
+}
+.middleboxes {
+    background-color: darkblue;
+    width: 400px;
+    height: 200px;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 40px;
+    margin-bottom: 75px;
+    padding: 5px;
+    color: white;
+}
+.middleboxes h3{
+    margin-bottom: 20px;
+    font-size: 30px;
+}
+.middleboxes p{
+    text-align: center;
+    font-size:25px;
+    margin: auto 20px;
+}
+.bottombox {
+    background-color: darkblue;
+    width: 850px;
+    height: 200px;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 40px;
+    padding: 5px;
+    color: white;
+}
+.bottombox h3{
+    margin-bottom: 20px;
+    font-size: 30px;
+}
+.bottombox p{
+    text-align: center;
+    font-size:25px;
+    margin: auto 20px;
+}
+#footer {
+    background-color: lightseagreen;
+    width: 1470px;
+    height: 100px;
+    text-align: center;
+    font-size:25px;
+    margin-top: 50px;
+}
+#footer p{
+    display:inline-block;
+    margin-top: 35px;
+}
